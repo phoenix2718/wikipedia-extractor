@@ -1,0 +1,1 @@
+python WikiExtractor.py kowiki-20150602-pages-articles.xml.bz2 -o output.xml
